@@ -1,0 +1,8 @@
+{
+  "name": "ionicity-personal-coach",
+  "app_id": "c491b71c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
